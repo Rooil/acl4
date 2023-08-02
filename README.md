@@ -18,4 +18,4 @@
 | ProxyLite.list         | 规则碎片-代理        | 比较精简的代理列表，包含常用的，以及被污染的域名             |
 | GeneralClashConfig.yml | clash配置文件        | 放行一堆国内的常用域名，配合系统代理更牛逼。 配置很全，自带中文注释。可以自行使用 |
 | pref.ini               | subconverter配置文件 | 更改了一些基础配置，将规则变成ACL4SSR                        |
-
+| xbox.ini               | Xbox配置文件         | 主机Xbox配置文件                                            |
