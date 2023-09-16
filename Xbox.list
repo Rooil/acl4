@@ -45,3 +45,7 @@
   - DOMAIN,login.live.com
   - DOMAIN,logincdn.msauth.net
   - DOMAIN,store-images.s-microsoft.com
+  - DomainKeyword,appcenter
+  - IPCIDR,152.195.38.76/30
+  - IPCIDR,51.140.36.244/30
+  - DomainKeyword,ubi
