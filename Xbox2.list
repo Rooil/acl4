@@ -8,7 +8,3 @@ DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxservice.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,gamepass.com
-DOMAIN-KEYWORD,appcenter
-IPCIDR,152.195.38.76/30
-IPCIDR,51.140.36.244/30
-DOMAIN-KEYWORD,ubi
